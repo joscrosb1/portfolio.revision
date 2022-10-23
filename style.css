@@ -1,0 +1,68 @@
+
+main {
+  background-color:#c67727;
+  margin-left: -40px;
+  margin-right: -75px;
+  
+}
+
+ h1, h3 {
+  color: white;
+  font-family:Courier New;
+  font-size: 25;
+  height: -1px;
+}
+p ul ol {
+  color: #654321;
+
+}
+.text-centered {
+  text-align:center;
+}
+/* josh class being the image implemented into the "main" container*/
+.josh {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
+  border-radius: 10px;
+  }
+
+header {
+  background-color:#C4A484; 
+  margin-left: -40px;
+  margin-right: -75px;
+  
+
+}
+
+
+
+body {
+  background-color:white;
+}
+
+
+footer {
+  background-color: #C4A484;
+  margin-left: -40px;
+  margin-right: -75px;
+  padding:15px;
+}
+
+div {
+  margin: -20px;
+}
+/* inside class being for the ul ol for inside the main being ceter*/
+.inside {
+text-align:center;
+list-style-position: inside;
+}
+
+hr {
+  color:#C4A484;
+  height: 1px;
+  border-style: solid none none;
+  border-width: 2px 0 0;
+  
+}
